@@ -1,6 +1,6 @@
 {
   "name": "@lucca-rodrigues/utils-package-front",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Package for shared util functions",
   "main": "index.js",
   "scripts": {
