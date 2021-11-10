@@ -1,0 +1,19 @@
+{
+  "name": "utils-package-front",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.angellira.com.br/austin/utils-package-front.git"
+  },
+  "keywords": [],
+  "author": "Lucas Rodrigues - contato.luccarodirgues@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.25.0"
+  }
+}
