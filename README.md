@@ -6,7 +6,7 @@
 - Acrescentar horas além de um período
 - Remover horas á partir de uma hora específica
 
-## Compo importar funcionalidades:
+## Importação de funcionalidades:
 ```
 import { formatDateToIso } from "@lucca-rodrigues/utils-package";
 
