@@ -1,14 +1,14 @@
 {
-  "name": "utils-package-front",
+  "name": "@lucca-rodrigues/utils-package-front",
   "version": "0.0.2",
-  "description": "",
+  "description": "Package for shared util functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.angellira.com.br/austin/utils-package-front.git"
+    "url": "https://github.com/lucca-rodrigues/Npm-Package-Utils.git"
   },
   "keywords": [],
   "author": "Lucas Rodrigues - contato.luccarodirgues@gmail.com",
